@@ -69,7 +69,14 @@ The CNN model was used as a baseline for comparison, while the CRNN model was im
 The CRNN model significantly outperformed the CNN model, improving recognition accuracy from **65.18%** to **98.38%**.
 
 ---
+## Key Contributions
 
+- Identified limitations of existing handwritten digit datasets for restaurant order form digitization.
+- Constructed a custom dataset containing 8,830 handwritten quantity samples.
+- Compared CNN and CRNN architectures for handwritten quantity recognition.
+- Improved recognition accuracy from 65.18% to 98.38%.
+
+---
 ## Technologies
 
 - Python
