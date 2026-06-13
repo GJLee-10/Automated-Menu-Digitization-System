@@ -27,18 +27,6 @@ Traditional OCR techniques and CNN-based models produced significant recognition
 
 ---
 
-## Sample Images
-
-### Original Restaurant Order Form
-
-![Original Order Form](images/original_order_form.png)
-
-### Order Form with Handwritten Quantities
-
-![Handwritten Order Form](images/handwritten_order_form.png)
-
----
-
 ## Methodology
 
 ### Dataset Construction
